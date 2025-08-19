@@ -1,0 +1,10 @@
+@import "tailwindcss";
+::selection
+{
+    background-color: purple;
+}
+img
+{
+    width:300px;
+    height: 200px;
+}
